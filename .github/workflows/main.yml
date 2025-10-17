@@ -34,7 +34,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add result/FuckAD.txt
+          git add result/ADaway.txt
           if git diff --cached --quiet; then
             echo "规则无变化，无需提交"
           else
