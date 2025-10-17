@@ -6,7 +6,10 @@ on:
     - cron: '0 0 * * *'
   # 允许手动触发
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
+  
 jobs:
   merge:
     runs-on: ubuntu-latest
