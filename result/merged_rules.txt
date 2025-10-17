@@ -1,3 +1,8 @@
+! 合并规则文件 (自动生成)
+! 来源: https://anti-ad.net/easylist.txt, https://gp.adrules.top/dns.txt
+! Update: 2025-10-17 11:06:21 UTC
+! Total count: 161012
+
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
 /^(\S+\.)?333[1-9]{2}[0-9]{2}\.com?$/
