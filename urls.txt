@@ -1,0 +1,7 @@
+# anti-AD 
+# Homepage: https://github.com/privacy-protection-tools/anti-AD
+https://anti-ad.net/easylist.txt
+
+# AdRules
+# Homepage: https://github.com/Cats-Team/AdRules
+https://gp.adrules.top/dns.txt
