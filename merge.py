@@ -5,7 +5,7 @@ from datetime import datetime
 # 配置文件和结果文件路径
 URLS_FILE = "urls.txt"  # 存储URL的配置文件
 OUTPUT_DIR = "result"
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "merged_rules.txt")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "FuckAD.txt")
 
 def load_urls():
     """从urls.txt读取URL列表，忽略注释和空行"""
