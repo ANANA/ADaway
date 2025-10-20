@@ -3,7 +3,7 @@ name: 合并广告规则
 on:
   # 定时执行（每天UTC时间0点，即北京时间8点）
   schedule:
-    - cron: '0 14 * * *'
+    - cron: '0 16 * * *'
   # 允许手动触发
   workflow_dispatch:
   
