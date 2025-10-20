@@ -34,8 +34,8 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          # 同时跟踪合并后的规则和重复规则备份
-          git add result/ADaway.txt result/duplicates.txt
+          # 跟踪合并规则、重复规则和URL缩写配置
+          git add result/ADaway.txt result/duplicates.txt url_aliases.txt
           if git diff --cached --quiet; then
             echo "规则无变化，无需提交"
           else
