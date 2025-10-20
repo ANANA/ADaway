@@ -1,6 +1,6 @@
 ! 合并广告规则文件 (自动生成)
-! 来源: https://anti-ad.net/easylist.txt, https://gp.adrules.top/dns.txt
-! Update: 2025-10-20 12:17:38 UTC
+! 来源: AntiAD, ADRules
+! Update: 2025-10-20 12:28:39 UTC
 ! Total unique rules: 166942
 ! Duplicate rules found: 74400
 
