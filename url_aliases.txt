@@ -1,0 +1,2 @@
+# 格式：URL=缩写名称（用于在重复规则中显示）
+https://anti-ad.net/easylist.txt=AntiAD
